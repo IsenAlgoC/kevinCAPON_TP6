@@ -1,0 +1,8 @@
+﻿  liste.c
+  outil.c
+C:\Users\Administrateur\Downloads\outil.c(27,6): warning C4101: 'idx' : variable locale non référencée
+C:\Users\Administrateur\Downloads\outil.c(85,29): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Administrateur\Downloads\outil.c(380,23): warning C4018: '<' : incompatibilité signed/unsigned
+  rep.c
+  Génération de code en cours...
+  TP6.vcxproj -> D:\vs\TP6\Debug\TP6.exe
